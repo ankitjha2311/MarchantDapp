@@ -1,1 +1,1 @@
-# Micro Dapp => A short video hosting service
+# Shorts => A short video hosting service
